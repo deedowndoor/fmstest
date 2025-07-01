@@ -28,11 +28,9 @@
     <input type="reset" value="รีเซ็ต">
 </div>
 
-
- 
 </form>
 
-<body>
+</body>
 
 
 </http>
